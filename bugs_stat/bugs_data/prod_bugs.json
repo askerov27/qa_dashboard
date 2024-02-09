@@ -1,0 +1,484 @@
+{
+  "Items": [
+    {
+      "ResourceType": "Bug",
+      "Id": 24947,
+      "Severity": {
+        "ResourceType": "Severity",
+        "Id": 2,
+        "Name": "Fix ASAP",
+        "Importance": 2
+      },
+      "EntityState": {
+        "ResourceType": "EntityState",
+        "Id": 315,
+        "Name": "Completed",
+        "NumericPriority": 102
+      }
+    },
+    {
+      "ResourceType": "Bug",
+      "Id": 24946,
+      "Severity": {
+        "ResourceType": "Severity",
+        "Id": 2,
+        "Name": "Fix ASAP",
+        "Importance": 2
+      },
+      "EntityState": {
+        "ResourceType": "EntityState",
+        "Id": 445,
+        "Name": "In Prod",
+        "NumericPriority": 101.5
+      }
+    },
+    {
+      "ResourceType": "Bug",
+      "Id": 24945,
+      "Severity": {
+        "ResourceType": "Severity",
+        "Id": 3,
+        "Name": "Fix Soon",
+        "Importance": 3
+      },
+      "EntityState": {
+        "ResourceType": "EntityState",
+        "Id": 311,
+        "Name": "Open",
+        "NumericPriority": 98
+      }
+    },
+    {
+      "ResourceType": "Bug",
+      "Id": 24944,
+      "Severity": {
+        "ResourceType": "Severity",
+        "Id": 2,
+        "Name": "Fix ASAP",
+        "Importance": 2
+      },
+      "EntityState": {
+        "ResourceType": "EntityState",
+        "Id": 446,
+        "Name": "Prod Deploy",
+        "NumericPriority": 101.25
+      }
+    },
+    {
+      "ResourceType": "Bug",
+      "Id": 24943,
+      "Severity": {
+        "ResourceType": "Severity",
+        "Id": 2,
+        "Name": "Fix ASAP",
+        "Importance": 2
+      },
+      "EntityState": {
+        "ResourceType": "EntityState",
+        "Id": 312,
+        "Name": "Development",
+        "NumericPriority": 100
+      }
+    },
+    {
+      "ResourceType": "Bug",
+      "Id": 24941,
+      "Severity": {
+        "ResourceType": "Severity",
+        "Id": 2,
+        "Name": "Fix ASAP",
+        "Importance": 2
+      },
+      "EntityState": {
+        "ResourceType": "EntityState",
+        "Id": 312,
+        "Name": "Development",
+        "NumericPriority": 100
+      }
+    },
+    {
+      "ResourceType": "Bug",
+      "Id": 24940,
+      "Severity": {
+        "ResourceType": "Severity",
+        "Id": 3,
+        "Name": "Fix Soon",
+        "Importance": 3
+      },
+      "EntityState": {
+        "ResourceType": "EntityState",
+        "Id": 311,
+        "Name": "Open",
+        "NumericPriority": 98
+      }
+    },
+    {
+      "ResourceType": "Bug",
+      "Id": 24936,
+      "Severity": {
+        "ResourceType": "Severity",
+        "Id": 2,
+        "Name": "Fix ASAP",
+        "Importance": 2
+      },
+      "EntityState": {
+        "ResourceType": "EntityState",
+        "Id": 452,
+        "Name": "Testing In Progress",
+        "NumericPriority": 101.125
+      }
+    },
+    {
+      "ResourceType": "Bug",
+      "Id": 24921,
+      "Severity": {
+        "ResourceType": "Severity",
+        "Id": 1,
+        "Name": "Blocking",
+        "Importance": 1
+      },
+      "EntityState": {
+        "ResourceType": "EntityState",
+        "Id": 445,
+        "Name": "In Prod",
+        "NumericPriority": 101.5
+      }
+    },
+    {
+      "ResourceType": "Bug",
+      "Id": 24920,
+      "Severity": {
+        "ResourceType": "Severity",
+        "Id": 3,
+        "Name": "Fix Soon",
+        "Importance": 3
+      },
+      "EntityState": {
+        "ResourceType": "EntityState",
+        "Id": 510,
+        "Name": "Feedback",
+        "NumericPriority": 99
+      }
+    },
+    {
+      "ResourceType": "Bug",
+      "Id": 24877,
+      "Severity": {
+        "ResourceType": "Severity",
+        "Id": 2,
+        "Name": "Fix ASAP",
+        "Importance": 2
+      },
+      "EntityState": {
+        "ResourceType": "EntityState",
+        "Id": 445,
+        "Name": "In Prod",
+        "NumericPriority": 101.5
+      }
+    },
+    {
+      "ResourceType": "Bug",
+      "Id": 24876,
+      "Severity": {
+        "ResourceType": "Severity",
+        "Id": 3,
+        "Name": "Fix Soon",
+        "Importance": 3
+      },
+      "EntityState": {
+        "ResourceType": "EntityState",
+        "Id": 451,
+        "Name": "To Review",
+        "NumericPriority": 100.25
+      }
+    },
+    {
+      "ResourceType": "Bug",
+      "Id": 24839,
+      "Severity": {
+        "ResourceType": "Severity",
+        "Id": 3,
+        "Name": "Fix Soon",
+        "Importance": 3
+      },
+      "EntityState": {
+        "ResourceType": "EntityState",
+        "Id": 445,
+        "Name": "In Prod",
+        "NumericPriority": 101.5
+      }
+    },
+    {
+      "ResourceType": "Bug",
+      "Id": 24838,
+      "Severity": {
+        "ResourceType": "Severity",
+        "Id": 1,
+        "Name": "Blocking",
+        "Importance": 1
+      },
+      "EntityState": {
+        "ResourceType": "EntityState",
+        "Id": 445,
+        "Name": "In Prod",
+        "NumericPriority": 101.5
+      }
+    },
+    {
+      "ResourceType": "Bug",
+      "Id": 24837,
+      "Severity": {
+        "ResourceType": "Severity",
+        "Id": 2,
+        "Name": "Fix ASAP",
+        "Importance": 2
+      },
+      "EntityState": {
+        "ResourceType": "EntityState",
+        "Id": 445,
+        "Name": "In Prod",
+        "NumericPriority": 101.5
+      }
+    },
+    {
+      "ResourceType": "Bug",
+      "Id": 24832,
+      "Severity": {
+        "ResourceType": "Severity",
+        "Id": 2,
+        "Name": "Fix ASAP",
+        "Importance": 2
+      },
+      "EntityState": {
+        "ResourceType": "EntityState",
+        "Id": 445,
+        "Name": "In Prod",
+        "NumericPriority": 101.5
+      }
+    },
+    {
+      "ResourceType": "Bug",
+      "Id": 24830,
+      "Severity": {
+        "ResourceType": "Severity",
+        "Id": 2,
+        "Name": "Fix ASAP",
+        "Importance": 2
+      },
+      "EntityState": {
+        "ResourceType": "EntityState",
+        "Id": 445,
+        "Name": "In Prod",
+        "NumericPriority": 101.5
+      }
+    },
+    {
+      "ResourceType": "Bug",
+      "Id": 24829,
+      "Severity": {
+        "ResourceType": "Severity",
+        "Id": 2,
+        "Name": "Fix ASAP",
+        "Importance": 2
+      },
+      "EntityState": {
+        "ResourceType": "EntityState",
+        "Id": 445,
+        "Name": "In Prod",
+        "NumericPriority": 101.5
+      }
+    },
+    {
+      "ResourceType": "Bug",
+      "Id": 24824,
+      "Severity": {
+        "ResourceType": "Severity",
+        "Id": 2,
+        "Name": "Fix ASAP",
+        "Importance": 2
+      },
+      "EntityState": {
+        "ResourceType": "EntityState",
+        "Id": 445,
+        "Name": "In Prod",
+        "NumericPriority": 101.5
+      }
+    },
+    {
+      "ResourceType": "Bug",
+      "Id": 24822,
+      "Severity": {
+        "ResourceType": "Severity",
+        "Id": 2,
+        "Name": "Fix ASAP",
+        "Importance": 2
+      },
+      "EntityState": {
+        "ResourceType": "EntityState",
+        "Id": 445,
+        "Name": "In Prod",
+        "NumericPriority": 101.5
+      }
+    },
+    {
+      "ResourceType": "Bug",
+      "Id": 24819,
+      "Severity": {
+        "ResourceType": "Severity",
+        "Id": 3,
+        "Name": "Fix Soon",
+        "Importance": 3
+      },
+      "EntityState": {
+        "ResourceType": "EntityState",
+        "Id": 445,
+        "Name": "In Prod",
+        "NumericPriority": 101.5
+      }
+    },
+    {
+      "ResourceType": "Bug",
+      "Id": 24818,
+      "Severity": {
+        "ResourceType": "Severity",
+        "Id": 2,
+        "Name": "Fix ASAP",
+        "Importance": 2
+      },
+      "EntityState": {
+        "ResourceType": "EntityState",
+        "Id": 510,
+        "Name": "Feedback",
+        "NumericPriority": 99
+      }
+    },
+    {
+      "ResourceType": "Bug",
+      "Id": 24817,
+      "Severity": {
+        "ResourceType": "Severity",
+        "Id": 2,
+        "Name": "Fix ASAP",
+        "Importance": 2
+      },
+      "EntityState": {
+        "ResourceType": "EntityState",
+        "Id": 445,
+        "Name": "In Prod",
+        "NumericPriority": 101.5
+      }
+    },
+    {
+      "ResourceType": "Bug",
+      "Id": 24807,
+      "Severity": {
+        "ResourceType": "Severity",
+        "Id": 3,
+        "Name": "Fix Soon",
+        "Importance": 3
+      },
+      "EntityState": {
+        "ResourceType": "EntityState",
+        "Id": 312,
+        "Name": "Development",
+        "NumericPriority": 100
+      }
+    },
+    {
+      "ResourceType": "Bug",
+      "Id": 24804,
+      "Severity": {
+        "ResourceType": "Severity",
+        "Id": 2,
+        "Name": "Fix ASAP",
+        "Importance": 2
+      },
+      "EntityState": {
+        "ResourceType": "EntityState",
+        "Id": 445,
+        "Name": "In Prod",
+        "NumericPriority": 101.5
+      }
+    },
+    {
+      "ResourceType": "Bug",
+      "Id": 24803,
+      "Severity": {
+        "ResourceType": "Severity",
+        "Id": 1,
+        "Name": "Blocking",
+        "Importance": 1
+      },
+      "EntityState": {
+        "ResourceType": "EntityState",
+        "Id": 445,
+        "Name": "In Prod",
+        "NumericPriority": 101.5
+      }
+    },
+    {
+      "ResourceType": "Bug",
+      "Id": 24802,
+      "Severity": {
+        "ResourceType": "Severity",
+        "Id": 2,
+        "Name": "Fix ASAP",
+        "Importance": 2
+      },
+      "EntityState": {
+        "ResourceType": "EntityState",
+        "Id": 445,
+        "Name": "In Prod",
+        "NumericPriority": 101.5
+      }
+    },
+    {
+      "ResourceType": "Bug",
+      "Id": 24794,
+      "Severity": {
+        "ResourceType": "Severity",
+        "Id": 3,
+        "Name": "Fix Soon",
+        "Importance": 3
+      },
+      "EntityState": {
+        "ResourceType": "EntityState",
+        "Id": 445,
+        "Name": "In Prod",
+        "NumericPriority": 101.5
+      }
+    },
+    {
+      "ResourceType": "Bug",
+      "Id": 24791,
+      "Severity": {
+        "ResourceType": "Severity",
+        "Id": 1,
+        "Name": "Blocking",
+        "Importance": 1
+      },
+      "EntityState": {
+        "ResourceType": "EntityState",
+        "Id": 445,
+        "Name": "In Prod",
+        "NumericPriority": 101.5
+      }
+    },
+    {
+      "ResourceType": "Bug",
+      "Id": 24790,
+      "Severity": {
+        "ResourceType": "Severity",
+        "Id": 2,
+        "Name": "Fix ASAP",
+        "Importance": 2
+      },
+      "EntityState": {
+        "ResourceType": "EntityState",
+        "Id": 445,
+        "Name": "In Prod",
+        "NumericPriority": 101.5
+      }
+    }
+  ]
+}
