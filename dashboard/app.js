@@ -1,3 +1,4 @@
+import "dotenv/config";
 import TelegramBot from "node-telegram-bot-api";
 import { getBugs, getRegressBugs } from "./services/get_bugs.services.js";
 import {
@@ -6,7 +7,7 @@ import {
   printRegressOpenBugs,
 } from "./services/print.services.js";
 
-const bot = new TelegramBot("6811781875:AAGpzELT0NE-XEWpE-GRRBNLZ5-G2JQQHq8", {
+const bot = new TelegramBot(process.env.TELEGRAM_KEY, {
   polling: true,
 });
 
